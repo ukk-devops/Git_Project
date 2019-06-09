@@ -2,3 +2,4 @@ This is to add new test functionality of user
 This file again modified to additikonal test runs to allow specific users to access application.
 This is to add new code to verify responsibility on logged in user.
 Aded new code to capture user details into cache for repeat validations on same data
+This is to changed UI of login page
